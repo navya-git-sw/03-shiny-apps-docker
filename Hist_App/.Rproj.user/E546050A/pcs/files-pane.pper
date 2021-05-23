@@ -1,0 +1,9 @@
+{
+    "path" : "D:/Docker/ShinyProxy-template-master/optional",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
